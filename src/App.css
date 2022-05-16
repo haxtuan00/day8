@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.span-icon{
+  position: fixed;
+  bottom: 0;
+  background: black;
+}
